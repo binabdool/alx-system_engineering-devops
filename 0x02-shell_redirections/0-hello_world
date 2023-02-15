@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo 'Hello, World'
 =======
 echo 'Hello World'
 >>>>>>> ec48c8d85e9fe93ccf8ac05d4f86f43d013fbf3a
+=======
+echo 'Hello, World'
+>>>>>>> 7e8beab66cb074e5c0e0f3b7a27d8f892d744c00
