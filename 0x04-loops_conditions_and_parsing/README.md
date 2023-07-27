@@ -1,6 +1,9 @@
 ![image](https://github.com/binabdool/alx-system_engineering-devops/assets/121132708/8dc08368-d7f1-45c7-91ef-2e941eee90e2)
-  
-  Resources Read or watch:
+
+
+
+
+Resources Read or watch:
 
 Loops sample
 Variable assignment and arithmetic
